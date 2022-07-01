@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/saemin-coin/static/js/main.efb89cf4.js",
+    "main.css": "/saemin-coin/static/css/main.8b1e2718.css",
+    "main.js": "/saemin-coin/static/js/main.39d1e24c.js",
     "index.html": "/saemin-coin/index.html",
-    "main.efb89cf4.js.map": "/saemin-coin/static/js/main.efb89cf4.js.map"
+    "main.8b1e2718.css.map": "/saemin-coin/static/css/main.8b1e2718.css.map",
+    "main.39d1e24c.js.map": "/saemin-coin/static/js/main.39d1e24c.js.map"
   },
   "entrypoints": [
-    "static/js/main.efb89cf4.js"
+    "static/css/main.8b1e2718.css",
+    "static/js/main.39d1e24c.js"
   ]
 }
